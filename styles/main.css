@@ -1,0 +1,54 @@
+html {
+  margin: auto;
+}
+
+h1, h2, h3, p {
+  max-width: 600px;
+  padding: 1rem;
+}
+button {
+  margin: 1rem;
+  padding: .5rem;
+}
+img, .carousel1, .carousel2 {
+  padding: 1rem;
+}
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 2rem;
+}
+
+nav ul li {
+  margin-left: 2rem;
+}
+
+header {
+  justify-content: center;
+}
+
+#history, #today {
+  max-width: 700px;
+}
+/*
+.top, .changed, .quiz {
+  background-color: #f1e8dc;
+}
+
+
+header, .carousel1, .carousel2 {
+  background-color: #dfb995;
+}
+#history, #today {
+  max-width: 500px;
+}
+
+nav ul {
+  display: flex;
+  list-style: none;
+  margin: 2rem;
+}
+
+nav ul li {
+  margin-left: 2rem;
+}
